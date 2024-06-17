@@ -5,5 +5,3 @@ permalink: /resume/
 ---
 
 ## Resume
-
-Add your resume content here.
