@@ -73,5 +73,15 @@ compress_html:
 sass:
   style:               compressed
 
+menu:
+  - title: About
+    url: /about/
+  - title: Resume
+    url: /resume/
+  - title: Work & Experience
+    url: /work-experience/
+  - title: Photos
+    url: /photos/
+
 plugins:
   - jekyll-include-cache
