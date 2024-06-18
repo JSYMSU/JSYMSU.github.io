@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <img src="assets/images/profile.jpg" alt="Profile Image" style="width: 100%; border-radius: 50%;">
+    <img src="assets/img/profile.jpg" alt="Profile Image" style="width: 100%; border-radius: 50%;">
   </div>
   <div style="flex: 3;">
     <p>
