@@ -78,10 +78,6 @@ menu:
     url: /about/
   - title: Resume
     url: /resume/
-  - title: Work & Experience
-    url: /work-experience/
-  - title: Photos
-    url: /photos/
 
 plugins:
   - jekyll-include-cache
