@@ -11,6 +11,8 @@ permalink: /resume/
 **Email:** [yoonjoo2@msu.edu](mailto:johndoe@example.com)  
 **Phone:** (123) 456-7890 
 
+## Experience
+
 ### Game Changer Worldwide Corp | Seoul, South Korea
 **07 / 2023 - 09 / 2023**  
 **Business Department Developer, Content Strategist**  
@@ -32,3 +34,40 @@ permalink: /resume/
 - Participated and assisted in numerous events, mainly interpretation and quarantine support at Incheon Airport during Covid-19 pandemic and startup competitions. 
 - Applied for translation for a military logistics exchange with foreign military unit. 
 - Proficiently used computer software tools (Microsoft Word, Power Point, and Excel) to create reports and evaluation records regarding operation and training.
+
+## Education
+
+### Michigan State University
+**08 / 2019 - present**  
+**Computer Science**
+
+### Hokkaido International School
+**08 / 2015 - 05 / 2019**
+
+## Skills
+
+### Highlights
+- Project management
+- Content strategy
+- Teamwork
+- Organization
+
+### Languages
+- Korean (Native fluency)
+- English (Full working proficiency)
+- Japanese (Full working proficiency)
+
+### Technology
+- Microsoft Office Specialist (MOS) certification
+- Python
+- C++
+- Git
+
+## Hobbies
+- Programming
+- Learning industrial design
+- Music, fashion, and travel blog posts
+- Visiting curated spots
+- Photography
+- Snowboarding
+- Video games
