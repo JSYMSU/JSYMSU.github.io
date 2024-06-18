@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<div style="float: left; width: 40%;">
+
 ![Profile Picture](assets/img/profile.jpg)
+
+</div>
 
 <div style="float: right; width: 60%;">
 
